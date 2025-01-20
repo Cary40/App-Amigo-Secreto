@@ -8,7 +8,7 @@ Sortear amigo secreto: selecciona aleatoriamente un amigo secreto para el usuari
 Mostrar resultado: muestra el nombre del amigo secreto asignado al usuario.
 
 Cómo usar la aplicación: 
-Clonar el repositorio: git clone https://github.com/Cary40/amigo-secreto.git
+Clonar el repositorio: git clone https://github.com/Cary40/App-Amigo-Secreto.git 
 Abrir el archivo index.html en tu navegador web.
 Escribir el nombre de un amigo en el campo de entrada y hacer clic en "Añadir".
 Repita el paso 3 para agregar a todos los amigos.
